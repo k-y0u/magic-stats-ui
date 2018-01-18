@@ -1,0 +1,31 @@
+{
+  "name": "magic_stats_ui",
+  "version": "1.0.0",
+  "description": "Front-end for magic_stats",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tewfik/magic_stats_ui.git"
+  },
+  "keywords": [
+    "magic",
+    "the",
+    "gathering",
+    "stats"
+  ],
+  "author": "OSM Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tewfik/magic_stats_ui/issues"
+  },
+  "homepage": "https://github.com/tewfik/magic_stats_ui#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
